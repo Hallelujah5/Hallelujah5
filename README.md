@@ -1,25 +1,52 @@
-# 👋 Hi there! I'm Tran Bao Phuc!
+<div align="center" width="50">
 
+<p ><h1 align="left"><strong>💫 A B O U T &nbsp; M E</h1></strong></p>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=Hi!%2C+I'm+Tran+Bao+Phuc;Computer+Science+Student;Full-stack+Web+%26+Mobile+Developer" alt="Typing SVG" />
+</a> </p>
+
+
+
+</div><br>
+
+
+<p ><h1 align="left"><strong>🌐 S O C I A L S </h1></strong></p>
+<br>
+
+<a href="https://linkedin.com/in/bảo-phúc-trần-57b115258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashmit-mehta" height="30" width="40" /></a>
+<a href="https://www.instagram.com/halellujah_5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehta.ashmit" height="30" width="40" /></a>
+<a href="https://www.facebook.com/tran.phuc.bao.476901/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
+
+<br><br>
+
+
+
+
+<p><h1><strong>📊 S T A T S</strong> </h1></p>
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&pause=1000&width=435&lines=Fullstack+developer;Mobile+%26+Web+Developer;Computer+Science+Student+)](https://git.io/typing-svg)
-  
+
+	
+![Hallelujah5's STATS](https://github-readme-stats.vercel.app/api?username=Hallelujah5&show_icons=true&theme=dracula&count_private=true&hide_border=true)	
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hallelujah5&theme=dracula&langs_count=9&hide_border=true&show_icons=true)
+	
+	
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hallelujah5&theme=dracula" >
 </div>
+<br>
 
----
-##
+<br><br>
+<br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hallelujah5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false&border_radius=10&cache_bust=2" height="200" alt="Top Languages">
-</div>
+![Code Time](http://img.shields.io/badge/Code%20Time-748%20hrs%2053%20mins-blue)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hallelujah5&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak Stats">
-</div>
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.01%20million%20lines%20of%20code-blue)
 
 
-## 🛠️ Tech Stack
+
+<p><h1 align="left"><strong> 🛠️ T E C H S T A C K  </strong></h1></p>
 
 ### 📱 **Mobile & Desktop App Development**
 <div align="left">
@@ -28,8 +55,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java">
   <img width="12">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#">
-  <img width="12">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" title="Dart">
 </div>
 
 **Platforms:** Android Native, Desktop Applications (Windows)
@@ -45,7 +70,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript">
 </div>
 
-**Frontend:** React, Vue.js, Next.js, TypeScript, Javascript
+**Frontend:** React, Vue.js, TypeScript, Javascript
 **Backend:** Node.js, REST APIs  
 **Database:** PostgreSQL, MySQL
 
@@ -56,32 +81,8 @@
   <img width="12">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker">
   <img width="12">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" title="Kubernetes">
-  <img width="12">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code">
 </div>
 
 
-## 🌟 My Favorite Technologies
 
-<div align="center">
-
-| **Language** | **Proficiency** | **Use Cases** |
-|--------------|-----------------|---------------|
-| ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) | ⭐⭐⭐⭐⭐ | iOS native development |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ⭐⭐⭐⭐⭐ | Backend development, Android apps |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ⭐⭐⭐⭐⭐ | Full-stack web development, APIs |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ⭐⭐⭐⭐ | System programming, IoT |
-| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ⭐⭐⭐⭐ | Desktop app development |
-
-</div>
-
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phan-hoang-an-vu-475b1b312/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vuphanhoangan2005@gmail.com)
-
-</div>
